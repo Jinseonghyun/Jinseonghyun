@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+안녕하세요. 진성현 입니다.
 
-<!--
-**Jinseonghyun/Jinseonghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Tools
 
-Here are some ideas to get you started:
+### Frontend  
+<div align="center">  
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" height="25"/>
+<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" height="25"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />    
+</div>
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jinseonghyun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
+
+## Github Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinseonghyun&layout=compact)
+
+<br/>
