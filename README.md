@@ -1,5 +1,5 @@
 ## Hi there 👋
-안녕하세요. 진성현 입니다.
+안녕하세요. 주니어 개발자 진성현 입니다.
 
 ## Skills & Tools
 
@@ -22,7 +22,8 @@
 
 <br/>
 
-## Github Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinseonghyun&layout=compact)
+## Github Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinseonghyun&layout=compact" alt="Top Languages">
+</div>
 
-<br/>
