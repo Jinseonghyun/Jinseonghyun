@@ -13,7 +13,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" height="50"/>    
 </div>
 
-
 <!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jinseonghyun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
